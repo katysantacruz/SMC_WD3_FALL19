@@ -8,5 +8,9 @@ h1 {font-family:Permanent Marker;color:white;text-align:center}
 p2 {color:black}
 h2 {font-family:Permanent Marker;color:#e3f2fd;text-align:center;font-size: 40pt}
 
+#grad {
+    background-image: linear-gradient(white, #FFC9D0);
+  }
+
 
 
