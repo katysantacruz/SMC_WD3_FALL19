@@ -4,14 +4,12 @@ $(document).ready(function(){
     $("#myModal").modal("show");
     
 
+     
   });
 
 
-  jQuery.validator.setDefaults({
-    debug: true,
-    success: "valid"
-  });
-  $( "#exampleInputPassword1" ).validate({
+  
+  $( "#exampleInputPassword1" ).submit({
     rules: {
       field: {
         required: true,
@@ -20,6 +18,9 @@ $(document).ready(function(){
     }
   });
 
- 
+  
     
+
+
+
 
