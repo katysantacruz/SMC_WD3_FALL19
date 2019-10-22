@@ -1,0 +1,77 @@
+body {background-color:#41A6A6}
+nav {background-color:#41A6A6}
+
+.jumbotron-fluid {padding-bottom:450px; background-position:center}
+.jumbotron {background-color:transparent}
+
+hr {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1.5px;
+    color:white;
+  } 
+
+h1 {color:white;
+    font-family: 'Muli', sans-serif;
+    font-weight: 800;
+}
+
+h3 {color:white;
+    font-family: 'Muli', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    padding-top: 15px;
+    text-align:center;
+     
+}
+h4 {color:white;
+    font-family: 'Muli', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    padding-top: 15px;
+    text-align:center;}
+
+h5 {color:white;
+        font-family: 'Muli', sans-serif;
+        font-weight: 700;
+        font-size: 25px;
+        padding-top: 15px;
+        text-align: left}
+
+
+
+p {color:white;
+    font-family: 'Muli', sans-serif;
+}
+
+p3 {color:white;
+    font-family: 'Muli', sans-serif;
+    font-size:15px;
+}
+a {font-family: 'Muli', sans-serif;
+}
+
+p2 {font-family: 'Muli', sans-serif;color:black;}
+
+
+
+h2{color:#1A6A73;font-family: 'Muli' sans-serif;
+font-weight:700;font-size: 25px}
+
+ form {
+    padding: 15px;;
+    background:#F2E9E9;
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    top:0px;
+    } 
+    
+#submitButton {background-color:#41A6A6;
+outline-color:#41A6A6 }
+
+footer {margin-top:5em;margin-bottom: 2em;}
